@@ -6,8 +6,8 @@ public class bonus {
         int x = 1289;
         if (x > 1000) {
 
-            System.out.println("Ваш баланс: " + (balanse + x / 100 + x) + " рублей");
-            System.out.println("Вам начисленно: " + (x / 100) + " бонусных рублей");
+            System.out.println("Ваш баланс: " + (balanse + x / 100 + x) + " рублей(ля)");
+            System.out.println("Вам начисленно: " + (x / 100) + " бонусных рублей(ля)");
 
         }
         if (x < 1000) {
